@@ -1,0 +1,28 @@
+Title: Wave-X-Diner
+Presented By: Air Force Bal bharti School
+Made By: Saurabh Jha, Achintya Agrawal
+
+Content Added:-
+1) Home.html (main page)
+2) How We Work (Hyperlink)
+3) About Us (Hyperlink)
+4) Menu (Hyperlink)
+5) Checkout (Hyperlink)
+
+Also Inculded:-
+1) Slideshows
+2) Nav bar
+3) Internal Linking
+4) Image Grid
+5) Section Counter
+6) Contact form
+7) Header and Footer
+8) Scroll to top
+9) Flipbook
+
+Buttons to which hyperlinks are attached
+1) Menu in nav bar
+2) See more in menu section
+3) How we work in nav bar
+4) Know more about us in About us section, navbar and footer 
+5) Checkout page in membership, slideshow and in menu
