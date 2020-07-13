@@ -1,0 +1,92 @@
+.container {
+  position: relative;
+  font-family: Arial;
+}
+
+.text-block {
+  position: absolute;
+  top: 45%;
+  left: 20%;
+  background: rgb(255, 0, 0, 0.7);
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+.text-block-2 {
+  position: absolute;
+  top: 45%;
+  left: 25%;
+  background: rgb(255, 0, 0, 0.7);
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+
+.texh1{
+	color:white;
+	text-align:center;
+	font-size:72px;
+}
+
+.texh2{
+	color:white;
+	text-align:center;
+	font-size:15px;
+}
+.content{
+	width:80%;
+	margin:0 auto;
+	padding-top:25px;
+	padding-bottom:20px;
+}
+.context{
+	text-align:justify;
+	font-size:18px;
+	padding-right:15px;
+	padding-bottom:15px;
+}
+.conimage{
+	float:right;
+}
+.howep{
+	width:50%;
+}
+
+.context2{
+	text-align:justify;
+	float:right;
+	padding-right:15px;
+	padding-bottom:15px;
+	padding-top:70px;
+	width:50%;
+}
+.howep2{
+	font-size:18px;
+	
+}
+.context3{
+	padding-top:50px;
+	text-align:justify;
+	font-size:18px;
+	padding-right:15px;
+	padding-bottom:15px;
+}
+.conimage2{
+	padding-top:20px;
+}
+
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 30%;
+  display:inline-block;
+  padding:10px;
+  margin:10px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
